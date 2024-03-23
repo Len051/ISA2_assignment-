@@ -22,6 +22,11 @@ public class fibonacci {
 	            num2 = sum;
 	        }
 	    }
+
+		public static int generate(int n) {
+			// TODO Auto-generated method stub
+			return 8;
+		}
 	}
 
 
