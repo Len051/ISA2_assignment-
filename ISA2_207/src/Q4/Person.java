@@ -23,17 +23,7 @@ public class Person {
 			}
 			public void getAge(int age) {
 				this.age=age;
-			}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		//Person obl=new Person("Kevin", 22);
-		//Person ob2=new Person("Aaron",19);
-
-	//	System.out.println(obl.getName()+" is "+obl.getAge()+" years");
-		//System.out.println(ob2.getName()+" is "+ob2.getAge ()+" years");
-
+			
 	}
 
 }

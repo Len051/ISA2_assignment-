@@ -26,8 +26,8 @@ public class PersonTest {
 	        assertEquals(ob1, person1.getName());
 	        assertEquals(ob2, person1.getAge());
 	        
-	        String ob3 = "Kevin";
-	        int ob4 = 22;
+	        String ob3 = "Aaron";
+	        int ob4 = 19;
 	        Person person2 = new Person(ob3, ob4);
 	        assertEquals(ob3, person2.getName());
 	        assertEquals(ob4, person2.getAge());
